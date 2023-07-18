@@ -4,6 +4,7 @@
 - Logic: Python
 - API Framework: FastAPI
 - Database: MongoDB
+- LLM: OpenAI: GPT-3.5-turbo
 
 
 ## API Structure
